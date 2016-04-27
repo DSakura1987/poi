@@ -1,9 +1,8 @@
 ![Header](https://raw.githubusercontent.com/poooi/poi/master/assets/img/header.png)
 
-[![Build Status](https://travis-ci.org/poooi/poi.svg?branch=master)](https://travis-ci.org/poooi/poi)
-[![Build status](https://ci.appveyor.com/api/projects/status/bpa1dvvjt33xxx5n?svg=true)](https://ci.appveyor.com/project/magica/poi)
-[![Dependencies](https://david-dm.org/poooi/poi.svg)](https://david-dm.org/poooi/poi)
-[![DevDependencies](https://david-dm.org/poooi/poi/dev-status.svg)](https://david-dm.org/poooi/poi#info=devDependencies)
+[![Build Status](https://travis-ci.org/DSakura1987/poi.svg?branch=master)](https://travis-ci.org/DSakura1987/poi)
+[![Dependencies](https://david-dm.org/DSakura1987/poi.svg)](https://david-dm.org/DSakura1987/poi)
+[![DevDependencies](https://david-dm.org/DSakura1987/poi/dev-status.svg)](https://david-dm.org/DSakura1987/poi#info=devDependencies)
 
 Scalable KanColle browser and tool.
 
